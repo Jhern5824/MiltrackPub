@@ -92,11 +92,11 @@ search stuff
 
 - Create the database for this project
 
-      CREATE DATABASE cyber_req;
+      CREATE DATABASE miltrackdb;
 
 - Select the database that was just created
 
-      \c cyber_req
+      \c miltrackdb
 
 - Now you are in the cyber_req database
 
